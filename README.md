@@ -7,4 +7,4 @@ Different Approaches to Allocate Resources in Single Cell Cellular Networks
 - power_control_hca.cpp: Controlling transmit powers using the non-cooprating game where channels are assigned using the heuristic approach
 - power_control_optca.cpp: Controlling transmit powers using the non-cooprating game where channels are assigned optimally 
 - resource_allocation.cpp: Assigning frequency channels using the second-price auction and controlling transmit powers using the non-cooprating game
-- script.sh: Allocating resources for different sibgle cell cellular networks
+- script.sh: Allocating resources for different single cell cellular networks
